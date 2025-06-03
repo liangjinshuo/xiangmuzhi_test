@@ -1,0 +1,17 @@
+{
+  "apiName": "type7_github_module",
+  "label": {
+    "zh_CN": "type7_github_module",
+    "en_US": ""
+  },
+  "icon": "./icon.svg",
+  "cover": "./cover.svg",
+  "description": {
+    "zh_CN": "type 7 github module 组件描述",
+    "en_US": "type 7 github module component description"
+  },
+  "device": [
+    "pc"
+  ],
+  "protocolVersion": "3.0"
+}
